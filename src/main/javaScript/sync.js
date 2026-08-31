@@ -6,4 +6,3 @@ for(let i = 0;i<100000;i++){
 console.log("Task two");
 console.log("Task three");
 console.log("Task four");
-
